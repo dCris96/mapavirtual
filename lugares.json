@@ -21,7 +21,7 @@
         "corX": -8.183706,
         "corY": -77.765430,
         "descripcion": "",
-        "imageUrl": ""
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mapa-turistico-pampas.appspot.com/o/negra.jpeg?alt=media&token=1f1e3212-f5c9-4499-a31e-1b2dc4c3321d"
     },
     {
         "titulo": "Laguna Quepina",
@@ -29,7 +29,7 @@
         "corX": -8.184778,
         "corY": -77.780839,
         "descripcion": "",
-        "imageUrl": ""
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mapa-turistico-pampas.appspot.com/o/quepina.jpeg?alt=media&token=55ec6950-c31b-411a-a768-9199d3a08b96"
     },
     {
         "titulo": "Aguas termales de Cochaconchucos",
@@ -37,7 +37,7 @@
         "corX": -8.251073,
         "corY": -77.881222,
         "descripcion": "",
-        "imageUrl": ""
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mapa-turistico-pampas.appspot.com/o/_DSC0038.jpg?alt=media&token=4cdfe3ad-0da6-4703-b386-179a09ec3c58"
     },
     {
         "titulo": "Catarata de Huambavalle",
@@ -69,7 +69,7 @@
         "corX": -8.213954,
         "corY": -77.894491,
         "descripcion": "",
-        "imageUrl": ""
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mapa-turistico-pampas.appspot.com/o/_DSC0008.jpg?alt=media&token=6b2705d3-534a-46f2-9260-59c49935bdd1"
     },
     {
         "titulo": "Ruinas de Alto Llama",
@@ -93,7 +93,7 @@
         "corX": -8.174044,
         "corY": -77.856453,
         "descripcion": "",
-        "imageUrl": ""
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mapa-turistico-pampas.appspot.com/o/el%20chugan.jpg?alt=media&token=ba0cb202-5fa2-4325-8ea7-004bed993b4e"
     },
     {
         "titulo": "Catarata San Antonio",
@@ -101,7 +101,7 @@
         "corX": -8.179039,
         "corY": -77.839258,
         "descripcion": "",
-        "imageUrl": ""
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mapa-turistico-pampas.appspot.com/o/san%20antonio.jpg?alt=media&token=93e368e6-81f1-4e9d-9a54-c2f13c52e54c"
     },
     {
         "titulo": "Laguna Misha",
@@ -109,7 +109,7 @@
         "corX": -8.146851,
         "corY": -77.782430,
         "descripcion": "",
-        "imageUrl": ""
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mapa-turistico-pampas.appspot.com/o/misha.jpeg?alt=media&token=a9f0e3ec-912c-4ba7-b481-917e2add6f37"
     },
     {
         "titulo": "Laguna Jarrococha",
@@ -117,7 +117,15 @@
         "corX": -8.141359,
         "corY": -77.780039,
         "descripcion": "",
-        "imageUrl": ""
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mapa-turistico-pampas.appspot.com/o/jarrococha.jpeg?alt=media&token=7c3078a7-1d73-4f95-adce-96aae0f2b361"
+    },
+    {
+        "titulo": "Laguna Urupay",
+        "titulo_corto": "Laguna Urupay",
+        "corX": -8.154367,
+        "corY": -77.811864,
+        "descripcion": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mapa-turistico-pampas.appspot.com/o/urupay.jpeg?alt=media&token=1cc9e2a1-b6a3-474c-bf93-7f5ff2615208"
     }
 ]
 
