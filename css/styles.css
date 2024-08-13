@@ -18,7 +18,7 @@ main {
 .popup {
   max-height: 400px;
   overflow-y: scroll;
-  text-align: center;
+  text-align: justify;
 }
 
 .img__popup {
