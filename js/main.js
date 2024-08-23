@@ -18,6 +18,8 @@ fetch('lugares.json')
             let sitio = L.marker([data[i].corX,data[i].corY])
 
             sitio.addTo(map).bindPopup(`<div class="popup"><h1>${data[i].titulo}</h1><p>${data[i].descripcion}</p><div class="img__popup"><img src="${data[i].imageUrl}"></div></div>`)
+
+            sitio.addTo(map).bindTooltip(`<span>${data[i].titulo_corto}</span>`).openTooltip();
         
         }
     });
